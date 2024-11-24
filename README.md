@@ -22,7 +22,7 @@ Voici les technologies et outils avec lesquels je travaille :
 ## 🌟 À propos de moi
 - 💻 Développeur spécialisé en **développement web full-stack**.
 - 📫 Vous pouvez me contacter à : [oualidhamri@icloud.com](mailto:oualidhamri@icloud.com).
-- 🌍 Basé à Lille, France.
+- 🌍 Basé à M'chedallah, Algérie.
 
 ---
 
